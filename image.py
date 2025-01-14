@@ -1,6 +1,6 @@
 import cv2
 
-image_path = 'C:/Users/48605/Desktop/Marta/Urodzinki.png'
+image_path = '' #Path to image
 image = cv2.imread(image_path)
 
 cv2.imshow('Image',image)
